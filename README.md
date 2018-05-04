@@ -18,3 +18,6 @@
 
 
 # pat
+| ID  | Title | Link | 备注 |
+| :-: | :-    | :-:  | :-   |
+1001 | A+B Format (20) | [View](./pat/1001.cpp) | 字符串处理
