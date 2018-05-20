@@ -21,3 +21,5 @@
 | ID  | Title | Link | 备注 |
 | :-: | :-    | :-:  | :-   |
 1001 | A+B Format (20) | [View](./pat/1001.cpp) | 字符串处理
+1002 | A+B for Polynomials (25) | [View](./pat/1002.cpp) | 模拟
+1003 | Emergency (25) | [View](./pat/1003.cpp) | Dijkstra算法，加权最短路径
