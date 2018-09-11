@@ -25,3 +25,4 @@
 1003 | Emergency (25) | [View](./pat/1003.cpp) | Dijkstra算法，加权最短路径
 1004 | Counting Leaves (30) | [View](./pat/1004.cpp) | BFS和DFS
 1012 | The Best Rank (25) | [View](./pat/1012.cpp) | 排序
+1013 | Battle Over Cities (25) | [View](./pat/1013) | 图的遍历，连通分量的计算
