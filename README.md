@@ -1,9 +1,9 @@
-**每日一题**
+**Solve a problem one day**
 ## CONTENT
-- [hdoj](#hdoj)
-- [pat](#pat)
+- [HDU Online Judge](#HDOJ)
+- [Programming Ability Test](#PAT)
 
-# hdoj
+# HDOJ
 
 | ID  | Title | Link | 备注 |
 | :-: | :-    | :-:  | :-   |
@@ -17,7 +17,7 @@
 2007 | 平方和与立方和 | [View](./hdoj/2007.cpp) | 奇偶判断
 
 
-# pat
+# PAT
 | ID  | Title | Link | 备注 |
 | :-: | :-    | :-:  | :-   |
 1001 | A+B Format (20) | [View](./pat/1001.cpp) | 字符串处理
