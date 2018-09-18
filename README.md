@@ -2,8 +2,8 @@
 
 ## Content
 
-- [Programming Ability Test](#PAT)
-- [HDU Online Judge](#HDOJ)
+- [Programming Ability Test](#pat)
+- [HDU Online Judge](#hdoj)
 
 ## PAT
 
